@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVL Tree", "..\AVL Tree\AVL Tree.vcxproj", "{27B6650D-F75C-49B5-9B69-405F3BF2FD89}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVL Tree", "AVL Tree\AVL Tree.vcxproj", "{03C5565A-377B-43C7-9FCF-EA7FF3815302}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{27B6650D-F75C-49B5-9B69-405F3BF2FD89}.Debug|Win32.ActiveCfg = Debug|Win32
-		{27B6650D-F75C-49B5-9B69-405F3BF2FD89}.Debug|Win32.Build.0 = Debug|Win32
-		{27B6650D-F75C-49B5-9B69-405F3BF2FD89}.Release|Win32.ActiveCfg = Release|Win32
-		{27B6650D-F75C-49B5-9B69-405F3BF2FD89}.Release|Win32.Build.0 = Release|Win32
+		{03C5565A-377B-43C7-9FCF-EA7FF3815302}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03C5565A-377B-43C7-9FCF-EA7FF3815302}.Debug|Win32.Build.0 = Debug|Win32
+		{03C5565A-377B-43C7-9FCF-EA7FF3815302}.Release|Win32.ActiveCfg = Release|Win32
+		{03C5565A-377B-43C7-9FCF-EA7FF3815302}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
